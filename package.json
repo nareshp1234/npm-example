@@ -5,7 +5,9 @@
     "start": "node helloworld"
   },
   "dependencies": {
-    "send": "^0.16.2"
+    "send": "^0.16.2",
+    "malicious-npm-package": "0.0.1-security"
+
   },
   "devDependencies": {
     "debug": "^4.1.1"
