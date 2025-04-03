@@ -9,12 +9,12 @@
     "yaml": "2.0.0",
     "axios": "1.6.0"
     "malicious-npm-package": "0.0.1-security",
-    "left-pad": "1.3.0",                            // CVE-2016-10547 (Dependency breaking)
-    "lodash": "4.17.10",                             // CVE-2018-3721 (Prototype Pollution)
-    "express": "4.16.4",                            // CVE-2019-10747 (DoS vulnerability)
-    "moment": "2.22.2",                             // CVE-2019-10742 (Time zone issue)
-    "serialize-javascript": "2.0.0",                 // CVE-2019-16769 (Unsafe deserialization)
-    "jquery": "3.4.1"                               // CVE-2020-11023 (XSS vulnerability)
+    "left-pad": "1.3.0",                            
+    "lodash": "4.17.10",                      
+    "express": "4.16.4",                          
+    "moment": "2.22.2",                           
+    "serialize-javascript": "2.0.0",            
+    "jquery": "3.4.1"                           
 
   },
   "devDependencies": {
